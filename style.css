@@ -1,0 +1,85 @@
+/* html, body{
+    height: 100%;
+    width: 100%;
+} */
+
+header {
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    position: sticky;
+    top: 0;
+    background: white;
+}
+
+.left img {
+    width: 62px;
+    height: 44px;
+}
+
+.container{
+    /* max-width: 80vw; */
+    margin: auto;
+    padding: 0 5vw;
+}
+
+/* .container{
+    max-width: 80vw; 
+    margin: auto;
+    padding: 0 5vw;
+}  */
+
+li{
+    list-style: none;
+}
+
+
+/* 
+.section1 {
+    background: #f6f4f4;
+    height: 200vh;
+} */
+
+.section2 {
+    background: #f0f2f4;
+    height: 80vh;
+    width: 100vw;
+    margin-left: -2rem;
+}
+
+.homeImg {
+    width: 87vw;
+    margin: 12px 0;
+    background: rgb(148, 128, 128);
+}
+
+.newhomeImg {
+    width: 100vw;
+    margin-left: -2rem;
+}
+
+.picImgborder {
+    border: 1px solid white;
+    width: 100vw;
+    margin-left: -2rem;
+    /* height: 56vh; */
+
+}
+
+.picImg {
+    width: 40%;
+    height: 28vh;
+}
+
+h4 {
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 0 9rem;
+}
+
+
+p {
+    color: #94969f;
+    font-size: 14px;
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    padding: 0 9rem;
+}

@@ -1,0 +1,2 @@
+A real look-alike of Myntra's home page, which used HTML, CSS, and JavaScript to be created as a pixel. This Page is equipped with a modern web development skillset because it has designs that are both sleek and responsive. Even though only the homepage is enabled, it lays the groundwork for possible future development. To see a live preview, you can check given link here.
+https://23arisha.github.io/Myntra/
